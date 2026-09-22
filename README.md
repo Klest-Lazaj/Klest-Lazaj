@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Full-stack+software+engineer;Building+useful+things%2C+end+to+end."
-    alt="Full-stack software engineer"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Fullstack+Software+Engineer;Web+Developer;Solution+Designer;Production-Grade+Specialist"
+  alt="Fullstack software engineer"
+/>
 </p>
 
 
