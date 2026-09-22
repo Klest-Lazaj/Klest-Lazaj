@@ -34,15 +34,25 @@ infrastructure that holds up as a product grows.
 My work spans SaaS platforms, marketplaces, business systems, AI-powered tools,
 and custom integrations.
 
+## Experience
+
+I joined **Datech sh.p.k.** as a Web Developer Intern in May 2023 and grew into a Fullstack Web Developer. Now 3 years later, I'm helping solve key software problems and find custom solutions to our client's needs.
+
+My work includes extending Odoo modules, designing internal APIs, improving
+role-aware workflows, and solving product challenges across booking, POS,
+multi-currency, communication, and operational systems.
+
 ## Selected work
 
 | Project | Period | What I built |
 | :-- | :-- | :-- |
 | [Merre](https://klestlazaj.com/work/Merre) | Oct 2025 - Present | A scalable marketplace for buyers and sellers, with authentication, seller tools, ratings, localization, and structured APIs. |
-| [CoverLttr](https://klestlazaj.com/work/CoverLttr) | Feb 2025 - Sep 2025 | An AI-powered cover-letter platform with personalized generation, payments, subscriptions, and a polished responsive experience. |
 | [Devtrack](https://klestlazaj.com/work/Devtrack) | May 2025 - Aug 2025 | A production-style team project-management SaaS with Spring Boot, React, JWT authentication, Docker, and AWS services. |
 | [Academy](https://klestlazaj.com/work/Academy) | Jan 2025 - Apr 2025 | A course-center platform with Admin, Finance, Student, and Parent portals, GraphQL data flows, and scheduling. |
-| [Attendify](https://klestlazaj.com/work/Attendify) | Oct 2024 - Nov 2024 | Event management with invitations, QR tickets, attendee tracking, and live status updates. |
+
+<p align="center">
+  <strong><a href="https://klestlazaj.com">Explore all projects and case studies at klestlazaj.com →</a></strong>
+</p>
 
 ## Featured repository
 
