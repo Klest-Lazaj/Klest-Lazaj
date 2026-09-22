@@ -27,20 +27,13 @@
 
 ## About
 
-I build full-stack products from first idea to production: clear interfaces,
-dependable APIs, thoughtful data models, secure authentication, and
-infrastructure that holds up as a product grows.
+I’m a Fullstack Web Developer at **Datech sh.p.k.**, where I started as a Web Developer Intern in May 2023 and grew into a developer who helps solve key software problems and design custom solutions around clients’ needs.
 
-My work spans SaaS platforms, marketplaces, business systems, AI-powered tools,
-and custom integrations.
+Here, I have contributed to our core modules, internal APIs, role-aware workflows, and operational systems across booking, POS, multi-currency, and communication.
 
-## Experience
+Alongside my work at Datech, I build full-stack products from first idea to production: modern interfaces, clean APIs, secure apps, and infrastructure that scales as a product grows.
 
-I joined **Datech sh.p.k.** as a Web Developer Intern in May 2023 and grew into a Fullstack Web Developer. Now 3 years later, I'm helping solve key software problems and find custom solutions to our client's needs.
-
-My work includes extending Odoo modules, designing internal APIs, improving
-role-aware workflows, and solving product challenges across booking, POS,
-multi-currency, communication, and operational systems.
+My projects span SaaS platforms, marketplaces, business systems, AI-powered tools, and custom integrations. 
 
 ## Selected work
 
