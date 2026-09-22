@@ -27,7 +27,7 @@
 
 ## About
 
-I’m a Fullstack Web Developer at **Datech sh.p.k.**, where I started as a Web Developer Intern in May 2023 and grew into a developer who helps solve key software problems and design custom solutions around clients’ needs.
+I’m a Fullstack Web Developer at **Datech sh.p.k.**, where I started as a Web Developer Intern in May 2023 and grew into a Fullstack Engineer who helps solve key software problems and design custom solutions around clients’ needs.
 
 Here, I have contributed to our core modules, internal APIs, role-aware workflows, and operational systems across booking, POS, multi-currency, and communication.
 
